@@ -3,16 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayush-t02&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-t02" /> </p>
 
-<p align="center">
-- 🌱 I’m currently learning a lot of things :) </p>
-<p align="center">
-- 💬 Ask me about **anything**</p>
-<p align="center">
-- 📫 How to reach me **tripathiayush23@gmail.com**</p>
-<p align="center">
-- 📄 Know about my experiences [shorturl.at/evFUW](shorturl.at/evFUW)</p>
-<p align="center">
-- ⚡ Fun fact **Chandler == (Me - Money)**</p>
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **tripathiayush23@gmail.com**
+
+- 📄 Know about my experiences [shorturl.at/bgsBV](shorturl.at/bgsBV)
+
+- ⚡ Fun fact **Chandler == (Me - money)**
   <br>
 
 <h3 align="center">Connect with me:</h3>

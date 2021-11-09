@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Tripathi</h1>
 <h3 align="center">I am currently a sophomore pursuing BE degree in Information Technology at VIT Mumbai. I believe that as a developer one never stops to learn and that’s the beauty of programming, no matter how much you learn you will always know only a drop in an ocean.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayush-t02&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-t02" /> </p>
-
-<div style="align-center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayush-t02&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-t02" /> 
 
 - 💬 Ask me about **anything**
 
@@ -11,7 +9,7 @@
 
 - ⚡ Fun fact: **Chandler == (Me - money)**
   
-  </div>
+</p>
   
   <br>
 

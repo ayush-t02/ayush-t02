@@ -8,7 +8,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/tripathiayush02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tripathiayush02" height="30" width="40" /></a>
+<a href="https://twitter.com/ayush_t02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tripathiayush02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayush-t02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-t02" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ayush_t02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush-t02" height="30" width="40" /></a>
 <a href="https://discord.gg/#5512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5512" height="30" width="40" /></a>

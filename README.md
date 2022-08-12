@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Ayush</h1>
-<h3 align="center">I'm an Open Source enthusiast and currently a sophomore pursuing BE degree in Information Technology at VIT Mumbai.</h3>
+<h3 align="center">I'm an Open Source enthusiast and currently a junior pursuing BE degree in Information Technology at VIT Mumbai.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayush-t02&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-t02" /></p>
 
